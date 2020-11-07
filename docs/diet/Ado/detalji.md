@@ -1,5 +1,5 @@
 
-## Dragan Ivanov dijeta
+## Ado dijeta
 
 ### Terapija
 
