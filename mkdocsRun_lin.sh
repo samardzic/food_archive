@@ -10,4 +10,4 @@
 
 # Installation cleanup
 echo -e "\n######################  MKdocs Start  #####################\n"
-gnome-terminal -- sh -c 'cd /home/ime/Build/recepti && mkdocs serve -a 127.0.0.1:9005; bash'
+gnome-terminal -- sh -c 'cd /home/ime/Build/food_archive && mkdocs serve -a 127.0.0.1:9005; bash'

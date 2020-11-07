@@ -16,7 +16,7 @@ ECHO ===== Starting MKdocs server =====
 echo.
 
 ECHO --- CD to MKdocs foder ---
-call cd c:/Build/recepti
+call cd c:/Build/food_archive
 echo.
 
 

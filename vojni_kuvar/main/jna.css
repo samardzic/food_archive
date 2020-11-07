@@ -1,0 +1,76 @@
+A:link
+{
+ 	color : #FFCC00;
+ 	text-decoration : none;
+ 	font-family : Verdana, Arial, Helvetica, sans-serif;
+ 	font-size : 9pt;
+}
+A:visited
+{
+ 	color : #FFFF99;
+ 	text-decoration : none;
+ 	font-family : Verdana, Arial, Helvetica, sans-serif;
+ 	font-size : 9pt;
+}
+A:hover
+{
+ 	color : #cc0000;
+ 	text-decoration : underline;
+ 	font-family : Verdana, Arial, Helvetica, sans-serif;
+ 	font-size : 9pt;
+}
+BODY
+{
+ 	font-family : Georgia, Verdana, Arial, Helvetica, sans-serif;
+ 	font-size : 10pt;
+}
+P
+{
+ 	font-family : Georgia, Verdana, Arial, Helvetica, sans-serif;
+ 	font-size : 10pt;
+}
+TD
+{
+ 	font-family : Georgia, Verdana, Arial, Helvetica, sans-serif;
+ 	font-size : 10pt;
+}
+.VELIKA
+{
+ 	font-family : Georgia, Verdana, Arial, Helvetica, sans-serif;
+ 	font-size : 11pt;
+}
+.MALA
+{
+ 	font-family : Verdana, Arial, Helvetica, sans-serif;
+ 	font-size : 8pt;
+ 	line-height : 11pt;
+}
+.SVELIKA
+{
+ 	font-family : Georgia, Verdana, Arial, Helvetica, sans-serif;
+ 	font-size : 10pt;
+}
+.SMALA
+{
+ 	font-family : Verdana, Arial, Helvetica, sans-serif;
+ 	font-size : 9pt;
+ 	line-height : 12pt;
+}
+.MNASLOV
+{
+ 	font-family : Georgia, Verdana, Arial, Helvetica, sans-serif;
+ 	font-size : 10pt;
+ 	color : #cc0000;
+}
+ 
+ .SNASLOV  {
+ 	font-family : Georgia, Verdana, Arial, Helvetica, sans-serif;
+ 	font-size : 14pt;
+ 	color : #cc0000;
+ }
+ 
+ .VNASLOV  {
+ 	font-family : Georgia, Verdana, Arial, Helvetica, sans-serif;
+ 	font-size : 16pt;
+ 	color : #cc0000;
+ }
