@@ -6,9 +6,18 @@
 
 <br/>
 
-Sugar and flour free! Chocolate cake in 5 minutes preparation - mixed in 1 minute and in the microwave. Light and simple cake without an oven. How to cook a cake in the microwave in 5 minutes - see my video. A very simple and quick recipe for making tea in 5 minutes. A cake without sugar and flour in minutes. The main thing is to cook in a good mood!
+- Sugar and flour free! Chocolate cake in 5 minutes preparation - mixed in 1 minute and in the microwave.
+- Light and simple cake without an oven. How to cook a cake in the microwave in 5 minutes - see my video.
+- A very simple and quick recipe for making tea in 5 minutes. A cake without sugar and flour in minutes.
+- The main thing is to cook in a good mood!
 
 <br/>
+
+![Crna mamba torta](..//media//cake_noSugar.png)
+
+<br/><br/>
+
+
 
 ## Recipe and ingredients
 
@@ -22,7 +31,3 @@ Sugar and flour free! Chocolate cake in 5 minutes preparation - mixed in 1 minut
 ## Dressing
 
 - 50 g chocolate + 45 ml milk + 15 g butter
-
-<br/><br/>
-
-![Pica recept](..//media//cake_noSugar.png)
