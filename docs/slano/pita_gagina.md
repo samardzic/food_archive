@@ -3,10 +3,14 @@
 
 
 #### Uvod
+Gagina brza pita koju stalo klopamo.
 
-ToDo
+<br/>
+
 
 ![Gagina Pita 1](..//media//pita_gaga_01.jpg)
+
+<br/><br/>
 
 #### Sastojci
 
@@ -21,14 +25,16 @@ ToDo
 
 #### Recept
 
-1. U posudu dodati mileram ili punomasno kiselo vrhnje 20% mm ili creme fraiche, ulje, jaje i sol. Točne količine su navedene gore na vrhu stranice u popisu sastojaka i video receptu
-2. Sve dobro promiješati
-3. Gotove ili kupovne kore sa savijače i pite imaju oko 10-12 komada listova u paketu. Uzeti dvije kore odnosno dva lista pa premazati sa mješavinom sa mileramom kako je prikazano gore u video receptu
-4. Dodati oko 80g sira ali onako da budu male “hrpice” ili kupovi jer onda se na kraju taj siri vidi, ne otopi se pa da ga upiju kore. Upravo tako preporučujem da i vi napravite
-5. Zamotati pa poslagati na prethodno namašćen ili pouljen lim. Sa ovom količinom bi trebali dobiti 6 komada savijača sa sirom
-6. Premazati sa otopljenim maslacem i peći pola sata na 200 C
-7. Nakon proteka vremena i nakon što je savijača sa sirom pečena, potrebno je ohladiti barem 15 minuta kako bi se slegnula i kako bi prilikom konzumacije okus više došo do izražaja
+1. Sve gore navedene sastojke umutiti zajedno.
+2. Redjati po 4-6 kora - svaku premazati kao palacinku sto mazemo (te debljine)
+3. Sto se broja kora tice, generalno ukupan broj kora u pakovanju podeliti sa 3.
+4. Kada se svi slojevi premazu, kore umotati kao palacinku i staviti u pleh za pecenje.
+5. Pre nego sto smotamo koru, preklopiti kore 2-3 cm po ivicama, da nam ne bi curile.
+6. Ostatak smese preliti preko urolanih kora.
+7. Pitu peci na 200 stepeni - prethodno zagrejati rernu.
 
+
+<br/><br/>
 
 ![Gagina Pita 2](..//media//pita_gaga_02.jpg)
 
