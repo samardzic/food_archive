@@ -13,6 +13,9 @@
 
 ## Priprema testa za picu
 
+NOTE:
+Ne mesati so i kvasac direktno - prvo voda sa malo brasna i onda kvasac. <br/>
+
 - U toplu vodu izmrviti kvasac i dodati šećer pa izmešati.
 - Dodati pola brašna i skoro svo ulje, ostaviti malo da se poulji okolo testo, kad se umesi i so, pa izmešati dobro varjačom.
 - Kako dodajete ostatak brašna, tako i mešajte.
@@ -30,5 +33,7 @@ Prijatno
 
 
 <br/><br/>
+
+<img src="..//media//pica.jpg" alt="image" width="900" height="auto">
 
 ![Pica recept](..//media//pica.jpg)
