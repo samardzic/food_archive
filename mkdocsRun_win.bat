@@ -21,6 +21,6 @@ echo.
 
 
 ECHO --- Appium server run ---
-call start cmd /k mkdocs serve -a %IP_ADDRESS%:%SERVER_PORT%
+call start cmd /k mkdocs serve --livereload -a %IP_ADDRESS%:%SERVER_PORT%
 echo.
 :: /************************************************************************************/
