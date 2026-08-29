@@ -36,4 +36,4 @@ kill_existing_mkdocs
 echo -e "\n######################  MKdocs Start  #####################\n"
 # gnome-terminal -- sh -c 'cd /home/ime/Build/food_archive && mkdocs serve -a 127.0.0.1:9006; bash'
 # cd /home/ime/Build/food_archive_docs && mkdocs serve -a 127.0.0.1:9006
-cd $MKDOCS_LOCATION && mkdocs serve -a 127.0.0.1:$MKDOCS_PORT
+cd $MKDOCS_LOCATION && mkdocs serve --livereload -a 127.0.0.1:$MKDOCS_PORT
