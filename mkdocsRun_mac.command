@@ -10,4 +10,4 @@
 
 echo -e "\n######################  MKdocs Start  #####################\n"
 cd /Users/nenads/Build/food_archive
-mkdocs serve -a 127.0.0.1:9006
+mkdocs serve --livereload -a 127.0.0.1:9006
